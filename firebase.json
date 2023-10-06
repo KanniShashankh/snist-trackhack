@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "frontend/public",
+    "site" : "track-hack",
+    "public": "frontend/dist",
     "ignore": [
       "firebase.json",
       "**/.*",

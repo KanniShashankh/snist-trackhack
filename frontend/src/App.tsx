@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <h1 className="text-3xl font-bold flex h-screen justify-center">
-        Hello world! SO {text}
+        Hello world! SO CRY {text}
       </h1>
     </>
   )
