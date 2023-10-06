@@ -18,5 +18,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TRACKHACK_SNIST }}'
           channelId: live
           projectId: trackhack-snist
-          folder: frontend/dist
 
